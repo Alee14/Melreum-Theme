@@ -15,9 +15,21 @@
    limitations under the License.
 */
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Play', sans-serif;
     padding: 0;
     margin: 0;
     background: #333;
     color: white
 }
+
+button {
+    background-color: #4CAF50;
+    font-family: 'Play', sans-serif;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
